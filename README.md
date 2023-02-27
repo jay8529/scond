@@ -1,0 +1,2 @@
+# scond
+second repository
